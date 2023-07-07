@@ -1,8 +1,8 @@
 # Terms of Use
 ## Effective date: July 6th, 2023
 
-### Welcome to ULO, a service provided by ULO Team. 
-> Please read on to learn the rules and restrictions that govern your use of our website(s), products, services, proprietary bots, and other applications (the “Services”). If you have any questions, comments, or concerns regarding these terms or the Services, please contact us at Email: support@ulobot.xyz
+## Welcome to ULO, a service provided by ULO Team. 
+Please read on to learn the rules and restrictions that govern your use of our website(s), products, services, proprietary bots, and other applications (the “Services”). If you have any questions, comments, or concerns regarding these terms or the Services, please contact us at Email: support@ulobot.xyz
 
 These Terms of Use (the “Terms”) are a binding contract between you and Delicacy Studios Inc., LLC. (“Delicacy Studios,” “we” and “us”). Your use of the Services in any way means that you agree to all of these Terms, and these Terms will remain in effect while you use the Services. These Terms include the provisions in this document as well as those in the Privacy Policy and Copyright Dispute Policy. Your use of or participation in certain Services may also be subject to additional policies, rules and/or conditions (“Additional Terms”), which are incorporated herein by reference, and you understand and agree that by using or participating in any such Services, you agree to also comply with these Additional Terms.
 
