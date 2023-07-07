@@ -1,9 +1,7 @@
-# ULO
-> ULO is a new and powerful Discord Bot that will allow you to experience new level moderation, music, fun, NSFW content, simple design, and new Open AI functions.
 
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="discord" src="https://media.discordapp.net/attachments/916163399942037574/916177968290738206/PicsArt_11-29-01.03.03.png"> 
 
-> # Modified by
-<a href="https://monitoring.delicacysound.repl.co/user/830819118265401354">👤 NateAles</a><br>
+> # ULO
+<a> ULO is a new and powerful Discord Bot that will allow you to experience new level moderation, music, fun, NSFW content, simple design, and new Open AI functions.</a><br>
 <br><br>
 
