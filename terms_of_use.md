@@ -1,7 +1,5 @@
 # Terms of Use
 ## Effective date: July 6th, 2023
-<br>
-<br>
 ### Welcome to ULO, a service provided by ULO Team. 
 Please read on to learn the rules and restrictions that govern your use of our website(s), products, services, proprietary bots, and other applications (the “Services”). If you have any questions, comments, or concerns regarding these terms or the Services, please contact us at Email: support@ulobot.xyz
 
