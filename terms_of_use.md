@@ -8,8 +8,7 @@ These Terms of Use (the “Terms”) are a binding contract between you and **UL
 Please read these Terms carefully. They cover important information about Services provided to you. These Terms include information about future changes to these Terms, automatic renewals, limitations of liability, a class action waiver and resolution of disputes by arbitration instead of in court. PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICES ARE SUBJECT TO THE FOLLOWING TERMS; IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE SERVICES IN ANY MANNER.
 
 > ARBITRATION NOTICE AND CLASS ACTION WAIVER: EXCEPT FOR CERTAIN TYPES OF DISPUTESDESCRIBED IN THE ARBITRATION AGREEMENT SECTION BELOW, YOU AGREE THAT DISPUTES BETWEEN YOU AND US WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
-<br>
-<br>
+
 ## Will these terms ever change?
 We are constantly trying to improve our Services, so these Terms may need to change along with our Services. We reserve the right to change the Terms at any time, but if we do, we will place a notice on our site located at [ulobot.xyz](https://ulobot.xyz), send you an email, and/or notify you by some other means.
 
