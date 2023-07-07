@@ -1,6 +1,7 @@
 # Terms of Use
 ## Effective date: July 6th, 2023
-
+<br>
+<br>
 ### Welcome to ULO, a service provided by ULO Team. 
 Please read on to learn the rules and restrictions that govern your use of our website(s), products, services, proprietary bots, and other applications (the “Services”). If you have any questions, comments, or concerns regarding these terms or the Services, please contact us at Email: support@ulobot.xyz
 
@@ -9,7 +10,8 @@ These Terms of Use (the “Terms”) are a binding contract between you and **UL
 Please read these Terms carefully. They cover important information about Services provided to you. These Terms include information about future changes to these Terms, automatic renewals, limitations of liability, a class action waiver and resolution of disputes by arbitration instead of in court. PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICES ARE SUBJECT TO THE FOLLOWING TERMS; IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE SERVICES IN ANY MANNER.
 
 > ARBITRATION NOTICE AND CLASS ACTION WAIVER: EXCEPT FOR CERTAIN TYPES OF DISPUTESDESCRIBED IN THE ARBITRATION AGREEMENT SECTION BELOW, YOU AGREE THAT DISPUTES BETWEEN YOU AND US WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
-
+<br>
+<br>
 ## Will these terms ever change?
 We are constantly trying to improve our Services, so these Terms may need to change along with our Services. We reserve the right to change the Terms at any time, but if we do, we will place a notice on our site located at [ulobot.xyz](https://ulobot.xyz), send you an email, and/or notify you by some other means.
 
@@ -49,12 +51,14 @@ You represent, warrant, and agree that you will not contribute any Content or Us
 (i) copies or stores any significant portion of the Content; or
 (j) decompiles, reverse engineers, or otherwise attempts to obtain the source code or underlying ideas or information of or relating to the Services.
 A violation of any of the foregoing is grounds for termination of your right to use or access the Services.
-
+<br>
+<br>
 ## What are my rights in the Services?
 The materials displayed or performed or available on or through the Services, including, but not limited to, text, graphics, data, articles, photos, images, illustrations, User Submissions (as defined below) and so forth (all of the foregoing, the “Content”) are protected by copyright and/or other intellectual property laws. You promise to abide by all copyright notices, trademark rules, information, and restrictions contained in any Content you access through the Services, and you won’t use, copy, reproduce, modify, translate, publish, broadcast, transmit, distribute, perform, upload, display, license, sell, commercialize or otherwise exploit for any purpose any Content not owned by you, (i) without the prior consent of the owner of that Content or (ii) in a way that violates someone else’s (including Delicacy Studios’) rights.
 
 Subject to these Terms, we grant each user of the Services a worldwide, non-exclusive, non-sublicensable and non-transferable license to use (i.e., to download and display locally) Content solely for purposes of using the Services. Use, reproduction, modification, distribution or storage of any Content for any purpose other than using the Services is expressly prohibited without prior written permission from us. You understand that Delicacy Studios owns the Services. You won’t modify, publish, transmit, participate in the transfer or sale of, reproduce (except as expressly provided in this Section), create derivative works based on, or otherwise exploit any of the Services. The Services may allow you to copy or download certain Content, but please remember that even where these functionalities exist, all the restrictions in this section still apply.
-
+<br>
+<br>
 ## What about anything I contribute to the Services – do I have to grant any licenses to Delicacy Studios or to other users?
 ### User Submissions
 
