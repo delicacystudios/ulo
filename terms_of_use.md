@@ -19,8 +19,8 @@ Except for changes by us as described here, no other amendment or modification o
 
 ## What about my privacy?
 **ULO Team** takes the privacy of its users very seriously. For the current Privacy Policy, please click here.
-<hr>
-## Children’s Online Privacy Protection Act
+
+### __Children’s Online Privacy Protection Act__
 
 The Children’s Online Privacy Protection Act (“COPPA”) requires that online service providers obtain parental consent before they knowingly collect personally identifiable information online from children who are under thirteen (13). We do not knowingly collect or solicit personally identifiable information from children under sixteen (16); if you are a child under sixteen (16), please do not attempt to register for or otherwise use the Services or send us any personal information. If we learn we have collected personal information from a child under sixteen (16), we will delete that information as quickly as possible. If you believe that a child under sixteen (16) may have provided us personal information, please contact us at delicacydeals@gmail.com.
 
